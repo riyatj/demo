@@ -1,0 +1,191 @@
+<html>
+    <head>
+        <title>
+        </title>
+        <style>
+            
+            .navbar{
+                text-align:center;
+                text-justify: inter-cluster;
+                display: flex;
+                justify-content: space-between;
+                padding:  20px;
+                height: 40px;
+                nav-right: current;
+                color: aliceblue;
+
+                
+             }
+             a {
+                margin: 20px;
+                padding: 5px;
+                text-align: center;
+                text-decoration: none;
+                
+                color: aliceblue;
+                
+
+
+             }
+            .infro{
+                text-align: center;
+                height: 100px;
+                padding: 20px;
+                color: black; 
+            
+
+            }
+            .navbar {
+                border-top-style:groove;
+                border-top-width: 1px;
+                background-color: black;
+                border-top-color:aliceblue;
+                border-right-color: aliceblue;
+                border-right-width: 1px;
+                border-right-style:groove;
+                border-bottom-color:aliceblue;
+                border-bottom-width: 1px;
+                border-bottom-style: groove;
+                border-left-color: aliceblue;
+                border-left-width: 1px;
+                border-left-style: groove;
+            }
+            .infro {
+                
+                background-color: gray;
+                border-top-style: groove;
+                border-top-width: 1px;
+                border-right-color: aliceblue;
+                border-right-width: 1px;
+                border-right-style:groove;
+                border-bottom-color:aliceblue;
+                border-bottom-width: 1px;
+                border-bottom-style: groove;
+                border-left-color: aliceblue;
+                border-left-width: 1px;
+                border-left-style: groove;
+                
+            }
+            .footer{
+                text-align: center;
+                padding: 20px;
+                color: aliceblue;
+                background-color: black;
+                border-top: 1px groove aliceblue;
+                margin-top: 300px;
+                height: 10px;
+                margin-left: 100px;
+                
+            
+
+            }
+            .footer{
+                border-bottom: 200px;
+                border-top-style:groove;
+                border-top-width: 1px;
+                background-color: black;
+                border-top-color:aliceblue;
+                border-right-color: aliceblue;
+                border-right-width: 1px;
+                border-right-style:groove;
+                border-bottom-color:aliceblue;
+                border-bottom-width: 1px;
+                border-bottom-style: groove;
+                border-left-color: aliceblue;
+                border-left-width: 1px;
+                border-left-style: groove;
+            }
+            .products {
+                display: flex;
+               justify-content: center;
+                gap: 20px;
+               margin: 30px;
+                    }
+
+            .card {
+                     width: 200px;
+                      padding: 15px;
+                     text-align: center;
+                      border: 1px solid black;
+                        border-radius: 10px;
+                        background-color: white;
+                           }
+
+            .card img {
+                   width: 100%;
+                    height: 180px;
+                   }
+
+            .card h3 {
+                     margin: 10px;
+                     }
+
+            .card p {
+    font-size: 18px;
+    font-weight: bold;
+                     }
+
+            .card button {
+                    padding: 8px 15px;
+                    background-color: black;
+                    color: white;
+                    border: none;
+                    border-radius: 5px;
+                      }
+        </style>
+    </head>
+<body>
+    <div class="navbar">
+    <h2>Fashion Hub<h2>
+       
+      <div>
+     <a href="#">Home</a>
+     <a href="#">Men</a>
+     <a href="#">Women</a>
+     <a href="#">Kids</a>
+     <a href="#">Contact</a>  
+     </div>
+
+     
+    
+        
+    
+
+ </div> 
+ <div class="infro" >
+    <h1>NEW Fashion Collection</h1>
+    <h3>Upgrade your style today</h3>
+    <div class="products">
+
+    <div class="card">
+        <img src="https://cdn.dsmcdn.com/mnresize/620/920/ty1850/prod/QC_PREP/20260404/18/b054c4b7-1cb5-3461-bd4c-61ee9e723fc0/1_org_zoom.jpg" alt="A tan long sleeve button up shirt hangs on a wooden hanger against a light gray background. The shirt is open at the front with a white T shirt underneath and a small necklace near the collar. A pocket sits on the left side of the shirt, and the fabric looks soft and textured. The overall scene is simple, clean, and casual, with a neutral mood and minimal background detail.">
+        <h3>Men's Shirt</h3>
+        <p>$350</p>
+        <button>Buy Now</button>
+    </div>
+     <div class="card">
+        <img src="https://theindiacrafthouse.com/cdn/shop/files/TICHND03N_203.jpg?v=1779046533https://theindiacrafthouse.com/cdn/shop/files/TICHND03N_203.jpg?v=1779046533" alt="A tan long sleeve button up shirt hangs on a wooden hanger against a light gray background. The shirt is open at the front with a white T shirt underneath and a small necklace near the collar. A pocket sits on the left side of the shirt, and the fabric looks soft and textured. The overall scene is simple, clean, and casual, with a neutral mood and minimal background detail.">
+        <h3>KURTHA</h3>
+        <p>$250</p>
+        <button>Buy Now</button>
+    </div>
+     <div class="card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWhmou5BSGKG7yVmHnZZe0zo6BGJWxnNurDmpcTlCKTGGENoo0RzM_4GOr&s=10" alt="A tan long sleeve button up shirt hangs on a wooden hanger against a light gray background. The shirt is open at the front with a white T shirt underneath and a small necklace near the collar. A pocket sits on the left side of the shirt, and the fabric looks soft and textured. The overall scene is simple, clean, and casual, with a neutral mood and minimal background detail.">
+        <h3>SAREE</h3>
+        <p>$780</p>
+        <button>Buy Now</button>
+    </div>
+     <div class="card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ_eD5M-Qa0bqxrWum4fH9OTRB386OvLtPLupgoWKNsCBkWFChvCZB7n9y&s=10" alt="A tan long sleeve button up shirt hangs on a wooden hanger against a light gray background. The shirt is open at the front with a white T shirt underneath and a small necklace near the collar. A pocket sits on the left side of the shirt, and the fabric looks soft and textured. The overall scene is simple, clean, and casual, with a neutral mood and minimal background detail.">
+        <h3>CROP TOP</h3>
+        <p>$250</p>
+        <button>Buy Now</button>
+    </div>
+</div>
+<div class="footer">
+      <h> 2026 Fashion Hub | Contact:fashionhub@gmail.com</h>
+</div>
+
+</div>
+</body>
+</html>
