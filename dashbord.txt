@@ -153,7 +153,7 @@
 
  </div> 
  <div class="infro" >
-    <h1>Fashion Collection store</h1>
+    <h1>Fashion Collection stores</h1>
     <h3>Upgrade your style today</h3>
     <div class="products">
 
